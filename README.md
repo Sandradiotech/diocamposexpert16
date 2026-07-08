@@ -68,4 +68,8 @@ O futuro pertence aos profissionais que conseguem equilibrar inovação tecnoló
 
 Meu agradecimento especial à DIO, à CEO Igla e a todos os palestrantes que compartilharam conhecimento, inspiração e experiências que certamente contribuirão para a formação de uma nova geração de profissionais preparados para os desafios da transformação digital.
 
-https://sandradiotech.github.io/diocamposexpert16/conteúdo.html
+<a href="https://github.com/Sandradiotech">Sandradiotech</a>
+
+<a href="https://github.com/Sandradiotech/diocamposexpert16">Sandradiotech</a>
+
+
